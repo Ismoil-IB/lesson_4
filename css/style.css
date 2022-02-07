@@ -21,7 +21,7 @@
 
 @font-face{
 	font-family: "MathicsRound";
-	src: url('../fonts/MathicsRound.woff2') format('woff2') url('../fonts/MathicsRound.woff') format('woff');
+	src: url('../fonts/MathicsRound.woff2') format('woff2'), url('../fonts/MathicsRound.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
