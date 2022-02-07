@@ -21,9 +21,9 @@
 
 @font-face{
 	font-family: "MathicsRound";
-	src: url('../fonts/MathicsRound.woff2') format('woff2') url('../fonts/Metorius-Sans.woff') format('woff');
+	src: url('../fonts/MathicsRound.woff2') format('woff2') url('../fonts/MathicsRound.woff') format('woff');
 	font-weight: 400;
-	font-style: sans-serif;
+	font-style: normal;
 	font-display: swap;
 }
 
@@ -62,7 +62,7 @@
 	color: rgb(87, 44, 44);
 }
 .div1 {
-	font-family: 'CircularStd-Bold' sans-serif;
+	font-family: 'CircularStd-Bold', sans-serif;
 	font-weight: 700;
 	color: teal;
 	text-decoration: underline;
