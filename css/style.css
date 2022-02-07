@@ -1,0 +1,116 @@
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+@font-face {
+	font-family: 'CircularStd-Bold';
+	src: url("../fonts/CircularStd-BoldItalic.woff2") format("woff2"),  url("../fonts/CircularStd-BoldItalic.woff") format(woff);
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metorius Sans';
+    src: url('../fonts/Metorius-Sans.woff2') format('woff2'),
+        url('../fonts/Metorius-Sans.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+	font-family: "MathicsRound";
+	src: url('../fonts/MathicsRound.woff2') format('woff2') url('../fonts/Metorius-Sans.woff') format('woff');
+	font-weight: 400;
+	font-style: sans-serif;
+	font-display: swap;
+}
+
+@font-face {
+    font-family: 'Minako';
+    src: url('../fonts/Minako-Regular.woff2') format('woff2'),
+        url('../fonts/Minako-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+.title {
+	font-family: "MathicsRound", sans-serif;
+	font-size: 40px;
+	color: rgb(0, 68, 255);
+}
+.paragraph1 {
+	font-family: 'Minako', normal;
+	color: tomato;
+	font-size: 25px;
+	font-style: italic;
+}
+.paragraph2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+	color: skyblue;
+}
+.paragraph3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	text-align: center;
+	color: rgb(87, 44, 44);
+}
+.div1 {
+	font-family: 'CircularStd-Bold' sans-serif;
+	font-weight: 700;
+	color: teal;
+	text-decoration: underline;
+}
+.header2 {
+	font-family: 'Minako', sans-serif;
+	font-size: 30px;
+	color: tomato;
+	text-decoration: none;
+}
+
+#header2{
+	text-decoration: none;
+}
+
+.paragraph4 {
+	text-shadow: 1px 1px 1px rgb(233, 121, 121);
+}
+.paragraph5 {
+	text-transform: uppercase;
+}
+
+.paragraph6 {
+	text-transform: lowercase;
+}
+
+.paragraph7 {
+	font-size: 50px;
+	line-height: 1.1;
+}
+.paragraph8 {
+	letter-spacing: 10px;
+	font-size: 20px;
+}
+
+.paragraph9 {
+	word-spacing: 10px;
+	font-size: 30px;
+}
+.paragraph10 {
+	font-family: 'Festive', sans-serif;
+	font-size: 30px;
+}
+.paragraph11 {
+	text-indent: 25px;
+	font-size: 30px;
+}
+
+.paragraph12 {
+	
+}
